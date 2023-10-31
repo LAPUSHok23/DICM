@@ -1,2 +1,2 @@
 # DICM
-распознавание тропических фруктов через дискорд
+recognizing tropical fruits via discord
